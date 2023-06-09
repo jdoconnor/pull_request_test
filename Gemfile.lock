@@ -16,7 +16,7 @@ GEM
     kgio (2.7.4)
     multi_json (1.3.6)
     multipart-post (1.1.5)
-    nokogiri (1.5.5)
+    nokogiri (1.5.11)
     oauth2 (0.8.0)
       faraday (~> 0.8)
       httpauth (~> 0.1)
